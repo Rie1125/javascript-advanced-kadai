@@ -1,0 +1,39 @@
+body {
+  font-size: 6em;
+  text-align: center;
+}
+
+.count {
+  margin: 0;
+  font-weight: bold;
+  color: #fadadd;
+  -webkit-text-stroke: 3px #8c6450;
+}
+
+.wrap {
+  margin-top: 20px;
+  padding: 80px 40px;
+  background-color: #e6be91;
+  font-weight: bold;
+  color:  #ffffff;
+}
+
+.typed {
+  color: #8c6450;
+  /* -webkit-text-stroke: #33231d; */
+}
+
+.mistyped {
+  background-color: red;
+}
+
+.start {
+  background-color: #cc8a72;
+}
+
+.typecount {
+  margin: 0;
+  font-weight: bold;
+  color: darkseagreen;
+  -webkit-text-stroke: 3px #8c6450;
+}
